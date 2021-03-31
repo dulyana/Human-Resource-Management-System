@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SADProject2")]
+[assembly: AssemblyTitle("MyImageButton")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SADProject2")]
+[assembly: AssemblyProduct("MyImageButton")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b10ccffa-a321-4838-869c-86c40b4df285")]
+[assembly: Guid("d0bd9884-fc4c-49f3-9acd-6d87a119a925")]
 
 // Version information for an assembly consists of the following four values:
 //

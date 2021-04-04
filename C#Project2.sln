@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SADProject2", "SADProject2\SADProject2.csproj", "{B10CCFFA-A321-4838-869C-86C40B4DF285}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyImageButton", "MyImageButton\MyImageButton.csproj", "{D0BD9884-FC4C-49F3-9ACD-6D87A119A925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payroll", "..\payroll\payroll\payroll.csproj", "{BC1500F9-4CFA-4CA8-9711-F1506903CD1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SADProject2", "..\SADProjectFINAL\SADProject2\SADProject2.csproj", "{B10CCFFA-A321-4838-869C-86C40B4DF285}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,6 +15,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0BD9884-FC4C-49F3-9ACD-6D87A119A925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BD9884-FC4C-49F3-9ACD-6D87A119A925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BD9884-FC4C-49F3-9ACD-6D87A119A925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BD9884-FC4C-49F3-9ACD-6D87A119A925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1500F9-4CFA-4CA8-9711-F1506903CD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1500F9-4CFA-4CA8-9711-F1506903CD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1500F9-4CFA-4CA8-9711-F1506903CD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1500F9-4CFA-4CA8-9711-F1506903CD1F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B10CCFFA-A321-4838-869C-86C40B4DF285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B10CCFFA-A321-4838-869C-86C40B4DF285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B10CCFFA-A321-4838-869C-86C40B4DF285}.Release|Any CPU.ActiveCfg = Release|Any CPU
